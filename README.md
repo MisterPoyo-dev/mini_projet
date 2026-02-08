@@ -1,2 +1,3 @@
-# mini_projet
-Mini projet de Mr AUFFRET : Programme UDP/TCP Division
+# Application Division
+
+> *Documentation faites par CUELLAR Paul et Le CAIGNEC Nathan*
